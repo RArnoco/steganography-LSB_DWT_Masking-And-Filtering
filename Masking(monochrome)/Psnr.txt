@@ -1,0 +1,9 @@
+merged1, mono1 - 28.2080
+
+merged2, mono2 - 25.3048
+
+merged3, mono3 - 25.7207
+
+merged4, mono4 - 25.1062
+
+merged5, mono5 - 24.3467
